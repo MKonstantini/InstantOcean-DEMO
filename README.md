@@ -7,7 +7,7 @@ Browse and search cruise lines and pricings.
 Use demo users to view the favorites and admin tool pages.  
 Includes checkout page for reviewing selected cruise.  
 
-Account types (Full Project):  
+Account Types:  
 * Regular: Add to favorites and explore the favorites page.  
 * Admin: Includes feature to manage cruises' data.  
 
@@ -20,14 +20,12 @@ Account types (Full Project):
 * Font Awesome  
 
 ## Installation  
-1. Clone the repository:  
-   ``` git clone mkonstantini.github.io/Companix/ ```  
+1. Clone the repository: ``` git clone mkonstantini.github.io/Companix/ ```  
 2. Navigate to the project directory using the ``` cd ``` terminal command.  
-3. Install dependencies:  
-   ``` npm install ```  
+3. Install dependencies: ``` npm install ```  
 
 ## Backend:
-Backend developed in Express.  
+The full project's backend is developed in Express.  
 User and cruises data stored in a MongoDB database.  
 Project's .env files (client + server) are included in the project files.  
 Run backend locally using: ```nodemon server```  
