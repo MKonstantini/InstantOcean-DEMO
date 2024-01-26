@@ -1,4 +1,4 @@
-# InstantOcean DEMO Version
+# InstantOcean DEMO
 A DEMO of my cruise line company web project.
 See full project at: [https://github.com/MKonstantini/InstantOcean](https://github.com/MKonstantini/InstantOcean)   
 The DEMO does not support any backend functionality available in the full project.   
