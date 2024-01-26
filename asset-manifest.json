@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InstantOcean-DEMO/static/css/main.538fb4ed.css",
+    "main.js": "/InstantOcean-DEMO/static/js/main.aac96a28.js",
+    "static/js/787.5273440f.chunk.js": "/InstantOcean-DEMO/static/js/787.5273440f.chunk.js",
+    "index.html": "/InstantOcean-DEMO/index.html",
+    "main.538fb4ed.css.map": "/InstantOcean-DEMO/static/css/main.538fb4ed.css.map",
+    "main.aac96a28.js.map": "/InstantOcean-DEMO/static/js/main.aac96a28.js.map",
+    "787.5273440f.chunk.js.map": "/InstantOcean-DEMO/static/js/787.5273440f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.538fb4ed.css",
+    "static/js/main.aac96a28.js"
+  ]
+}
