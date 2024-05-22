@@ -8,7 +8,6 @@ interface FormRegisterProps {
 }
 
 const FormRegister: FunctionComponent<FormRegisterProps> = () => {
-    // Regex for password : min 1 uppercase, min 1 lowercase, min 1 symbol, min 1 number, min 8 characters, max 30 characters
     const regexValidation = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[#$@!%&*?])[A-Za-z\d#$@!%&*?]{8,30}$/
 
     function clientRegister() {
